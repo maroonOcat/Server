@@ -1,7 +1,7 @@
 // заголовочный файл funcs.h
 #ifndef __FUNCS_H__
 #define __FUNCS_H__ 
-3
+
 double MySum(double, double);
 double MySub(
 double, double);
